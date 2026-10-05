@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Shared branded navigation and page framing live in `src/components/vivah-shell.tsx` so every experience stays visually consistent.
+- Fictional discovery content stays in the frontend until persistent accounts and data are explicitly requested.
